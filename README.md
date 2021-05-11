@@ -5,6 +5,13 @@ The tool appears as a Tab called "Snapshot" on Excel.
 
 
 
+How to Install:
+Copy the Snapshot_HavishMConsulting.xlam file to the Excel Add-Ins folder.
+It should look like this - 
+C:\Users\[yourname]\AppData\Roaming\Microsoft\AddIns
+
+
+
 Please note:
 While Saving - 
 The file has to be saved first before you save a backup.
