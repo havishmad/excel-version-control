@@ -11,7 +11,7 @@ It should look like this -
 C:\Users\[yourname]\AppData\Roaming\Microsoft\AddIns
 
 Open Excel application > File > Options > Add-ins > Manage > Excel Add-ins > Go
-Select Snapshot_HavishMConsulting and Press Okay
+Select VersionControl_HavishMConsulting and Press Okay
 
 
 Please note:
