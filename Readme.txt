@@ -1,12 +1,12 @@
 # excel-version-control
 What it Does:
 Save, Manage and Restore Manual Backups of Excel Files.
-The tool appears as a Tab called "Snapshot" on Excel.
+The tool appears as a Tab called "Version Control" on Excel.
 
 
 
 How to Install:
-Copy the Snapshot_HavishMConsulting.xlam file to the Excel Add-Ins folder.
+Copy the VersionControl_HavishMConsulting.xlam file to the Excel Add-Ins folder.
 It should look like this - 
 C:\Users\[yourname]\AppData\Roaming\Microsoft\AddIns
 
